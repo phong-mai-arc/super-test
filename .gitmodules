@@ -1,0 +1,6 @@
+[submodule "fms"]
+	path = fms
+	url = https://github.com/phong-mai-arc/fms-test.git
+[submodule "his"]
+	path = his
+	url = https://github.com/phong-mai-arc/his-test.git
